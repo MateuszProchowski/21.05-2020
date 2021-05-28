@@ -1,0 +1,96 @@
+.gora {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.schronisko {
+    color: #0ED145;
+    margin-left: 600px;
+}
+
+.kolor-nava {
+    background-color: #0D9BFA;
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 90%;
+    height: 100px;
+    margin-left: 5%;
+}
+.kolor-nava a {
+    margin-top: 35px;
+    color: white;
+    font-size: x-large;
+}
+kolor-nava a:hover {
+    color: black;
+}
+.iconup {
+    margin-left: 50%;
+    margin-top: 10px;
+    border-radius: 50%;
+    border: 1px solid #0D9BFA;
+    padding: 10px;
+}
+.burki {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+    margin-left: 105px;
+    text-align: center;
+    gap: 10px;
+}
+.burki:hover {
+    opacity: 1;
+}
+.borderDogs {
+    border:3px solid #0D9BFA;
+    width: 80%;
+}
+.footer {
+    padding: 40px;
+    background-color:#0D9BFA;
+    text-align: center;
+    margin-top: 300px;
+}
+.inp1 {
+    width: 400px;
+}
+.inp2 {
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+.inp3 {
+    width: max-content;
+}
+
+.inp4 {
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+}
+
+.grid-item1 {
+    margin-top: 5px;
+    margin-left: 90px;
+    font-size: 50px;
+    color: chocolate;
+}
+
+.grid-item2 {
+    margin-top: 5px;
+    font-size: 50px;
+    color: chocolate;
+    margin-left:600px;
+}
+
+.text {
+    text-align: center;
+}
+.pantofel{
+    margin-top: 30px;
+}
+
+.paragrafy {
+    font-size: 25px;
+}
